@@ -25,3 +25,11 @@ Play [HERE!](https://developersandbox.xyz/sudoku)
 ## How it works
 
 The solver uses a backtracking algorithm to find the solution to the puzzle. The generator creates a new puzzle by first generating a complete, valid Sudoku puzzle, and then removing a random number of cells to create an incomplete puzzle.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
